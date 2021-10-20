@@ -1,3 +1,5 @@
+Utilizacion de useContext en donde al cliquear sobre un boton se convierten ciertos componentes en un "Dark Mode".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
